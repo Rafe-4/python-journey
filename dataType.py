@@ -14,3 +14,9 @@ print (type(name))
 myname = "shovon"
 
 print ("my name is "+myname)
+
+#bool type data
+x = 8
+y = 7
+
+print (x<y)
