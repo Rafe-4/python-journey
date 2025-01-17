@@ -10,3 +10,7 @@ print (type(name))
 name = 123j
 
 print (type(name))
+#str type data
+myname = "shovon"
+
+print ("my name is "+myname)
