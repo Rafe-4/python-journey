@@ -35,3 +35,6 @@ rafelist=[1,2,5,2,23,143,12]
 b1=bytearray(rafelist)
 b1[1]= 100
 print(b1[1])
+#none type value
+x =None
+print(type(x))
