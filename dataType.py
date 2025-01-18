@@ -20,3 +20,18 @@ x = 8
 y = 7
 
 print (x<y)
+
+#binary type data
+
+rafelist=[1,2,5,2,23,243,12]
+
+b=bytes(rafelist)
+print(type(b))
+
+#binary type data
+
+rafelist=[1,2,5,2,23,143,12]
+
+b1=bytearray(rafelist)
+b1[1]= 100
+print(b1[1])
