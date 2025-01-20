@@ -1,4 +1,4 @@
-username= input('enter your username:')
+username= input('enter your user:')
 password= input('enter your password:')
 
 print(username)
