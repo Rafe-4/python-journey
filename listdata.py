@@ -16,3 +16,12 @@ list[1]= 12
 
 print(list)
 
+#append 
+list.append(10)
+
+print (list)
+
+#insert
+
+list.insert(2,"khela hove")
+print(list)
